@@ -1,0 +1,9 @@
+.elements {
+  &__textArea {
+    display: flex;
+    flex-direction: column;
+    > label {
+      text-transform: capitalize;
+    }
+  }
+}

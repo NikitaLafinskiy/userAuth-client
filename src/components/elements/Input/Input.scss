@@ -1,0 +1,24 @@
+.elements {
+  &__input {
+    display: flex;
+    flex-direction: column;
+    > label {
+      text-transform: capitalize;
+      font-size: 1.1em;
+    }
+    input,
+    textarea {
+      height: 4vh;
+      border: 1px solid rgb(0, 1, 42) !important;
+      background-color: white;
+      border-radius: 0px;
+      max-height: 6vh;
+      max-width: 100%;
+    }
+    > input,
+    textarea :focus {
+      outline: none;
+      border: none;
+    }
+  }
+}

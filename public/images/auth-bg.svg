@@ -1,0 +1,60 @@
+<svg
+              id='visual'
+              viewBox='0 0 1920 1080'
+              width='100%'
+              height='100%'
+              preserveAspectRatio='none'
+              xmlns='http://www.w3.org/2000/svg'
+              xmlns:xlink='http://www.w3.org/1999/xlink'
+              version='1.1'>
+              <rect
+                x='0'
+                y='0'
+                width='1920'
+                height='1080'
+                fill='#f6f6f6'></rect>
+              <defs>
+                <linearGradient
+                  id='grad1_0'
+                  x1='43.8%'
+                  y1='0%'
+                  x2='100%'
+                  y2='100%'>
+                  <stop
+                    offset='14.444444444444446%'
+                    stop-color='#f6f6f6'
+                    stop-opacity='1'></stop>
+                  <stop
+                    offset='85.55555555555554%'
+                    stop-color='#f6f6f6'
+                    stop-opacity='1'></stop>
+                </linearGradient>
+              </defs>
+              <defs>
+                <linearGradient
+                  id='grad2_0'
+                  x1='0%'
+                  y1='0%'
+                  x2='56.3%'
+                  y2='100%'>
+                  <stop
+                    offset='14.444444444444446%'
+                    stop-color='#f6f6f6'
+                    stop-opacity='1'></stop>
+                  <stop
+                    offset='85.55555555555554%'
+                    stop-color='#f6f6f6'
+                    stop-opacity='1'></stop>
+                </linearGradient>
+              </defs>
+              <g transform='translate(1920, 0)'>
+                <path
+                  d='M0 540C-80 543.1 -159.9 546.2 -206.6 498.9C-253.4 451.6 -266.9 354 -293.4 293.4C-320 232.9 -359.5 209.6 -402.8 166.8C-446.1 124.1 -493 62.1 -540 0L0 0Z'
+                  fill='#00012a'></path>
+              </g>
+              <g transform='translate(0, 1080)'>
+                <path
+                  d='M0 -540C84 -546.1 168 -552.2 206.6 -498.9C245.3 -445.5 238.6 -332.7 277.2 -277.2C315.7 -221.6 399.5 -223.4 450.9 -186.7C502.2 -150.1 521.1 -75 540 0L0 0Z'
+                  fill='#00012a'></path>
+              </g>
+            </svg>
